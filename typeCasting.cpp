@@ -1,4 +1,9 @@
-// =================== Example ===================
+//               Language: C++ / Cpp
+//               Topic   : [TypeCast]
+//               example : 👉👉 [1]
+
+//     
+// ================================================
 #include <iostream>
 using namespace std;
 int main(){
@@ -11,7 +16,12 @@ int main(){
 }
 
 
-// =================== Example ===================
+//// ================================================
+//               Language: C++ / Cpp
+//               Topic   : [TypeCast]
+//               example : 👉👉 [2]
+//     
+// ================================================
 #include <iostream>
 using namespace std;
 int main(){
@@ -22,3 +32,9 @@ int main(){
  cout<<"output is : " << y/2<<endl;
     return 0;
 }
+//// ================================================
+//               Language: C++ / Cpp
+//               Topic   : [TypeCast]
+//               example : 👉👉 [2]
+//     
+// ================================================

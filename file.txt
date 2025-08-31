@@ -1,7 +1,7 @@
 //               Language: C++ / Cpp
 //               Topic   : [TypeCast]
-//               example : 👉👉 [8] git add .
-git commit -m
+//               example : 👉👉 [8]
+
 //     
 // ================================================
 
