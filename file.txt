@@ -1,3 +1,10 @@
+//               Language: C++ / Cpp
+//               Topic   : [TypeCast]
+//               example : 👉👉 [8] git add .
+git commit -m
+//     
+// ================================================
+
 #include <iostream>
 using namespace std;
 int main(){
