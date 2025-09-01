@@ -35,6 +35,15 @@ int main(){
 //// ================================================
 //               Language: C++ / Cpp
 //               Topic   : [TypeCast]
-//               example : 👉👉 [2]
+//               example : 👉👉 [3]
 //     
 // ================================================
+#include <iostream>
+using namespace std;
+int main(){
+   char ch;
+   cout<<"enter";
+   cin>>ch;
+   cout<<"output" <<(int)ch<<endl;
+    return 0;
+}
